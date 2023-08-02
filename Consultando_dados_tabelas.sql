@@ -1,6 +1,8 @@
 /* CONSULTANDO DADOS DAS TABELAS
 	Esquematização de seleção de campos; Filtro - maior, menor, diferente; Filtro por datas; 
-	Filtros compostos (AND e OR) e Update com uso de filtros
+	Filtros compostos (AND e OR); Update com uso de filtros; Seleção com uso do (IN e LIKE);
+	Seleção DISTINTA
+
 
 */
 
